@@ -1,0 +1,32 @@
+Guion del narrador. Guarden cada audio en esta carpeta con el nombre indicado (.mp3).
+
+g1_e000.mp3
+    Hola, Pixie. No sabes nada de esta cueva, así que camina. Ya veremos qué pasa cuando se te apague el farol.
+
+g1_e013.mp3
+    Primer pozo, Pixie. No lo viste venir. Y lo peor: tampoco lo vas a recordar.
+
+g2_e000.mp3
+    Segunda generación. Ahora preguntas después de cada paso, y si algo falla te devuelves por el hilo.
+
+g2_e006.mp3
+    Te caíste igual. Pero bien: seguiste el hilo, volviste a donde estabas y probaste otro camino.
+
+g2_e014.mp3
+    Pixie... ¿otra vez? Tienes hilo, pero no tienes memoria.
+
+g3_e000.mp3
+    Tercera generación. Ahora llevas una libreta: lo que aprendas de la cueva ya no se te olvida.
+
+g3_e006.mp3
+    Una caída. Anótala, Pixie: ese pozo no lo vuelves a pisar.
+
+g3_e012.mp3
+    ¿Sientes la brisa? Solo te queda una casilla vecina sin revisar. El pozo tiene que estar ahí.
+
+g3_e014.mp3
+    Eso. No diste el paso, y lo supiste sin caer.
+
+g3_e026.mp3
+    Doce pasos, justo el aceite que tenías. Muy bien, Pixie. Ahora sigue buscando, por si hay otro camino.
+
